@@ -10,8 +10,6 @@ According to the definition:
 
 > The **h-index** is the maximum value of `h` such that the researcher has published at least `h` papers that have each been cited at least `h` times.
 
- You must write an algorithm that runs in **O(log n)** time.
-
 ---
 
 ##  Examples
