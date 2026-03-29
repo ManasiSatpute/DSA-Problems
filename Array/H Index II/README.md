@@ -38,3 +38,7 @@ Given an array of integers `citations` where `citations[i]` represents the numbe
 
 - **Time:** O(n log n) (due to sorting)  
 - **Space:** O(1)
+
+---
+## Tags
+Array, Sorting, Greedy
