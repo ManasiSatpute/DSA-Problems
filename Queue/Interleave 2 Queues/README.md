@@ -1,4 +1,4 @@
-# Interleave Queue Using STL (C++)
+# Interleave Queue Using STL 
 
 ## Overview
 
