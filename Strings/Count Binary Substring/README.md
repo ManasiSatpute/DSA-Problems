@@ -89,13 +89,6 @@ Any valid substring must span exactly two consecutive groups.
 By counting group sizes and taking the minimum between adjacent groups,
 we efficiently count all valid substrings in one pass.
 
----
-
-###  Files
-
-* `problem.md` → Full problem statement
-* `solution.cpp` → C++ implementation
-* `README.md` → Explanation and approach
 
 ---
 
