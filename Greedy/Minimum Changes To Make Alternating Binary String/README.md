@@ -63,7 +63,11 @@ O(1)
 - Minimum operation calculation
 
 ---
+##Tags: 
+Greedy, String
+---
 
 ## Conclusion
 
 By evaluating both possible alternating patterns, we can efficiently determine the minimum number of changes required to make the binary string alternating.
+
