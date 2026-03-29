@@ -1,13 +1,11 @@
-# Hash Table Implementation Using Chaining (C++)
-
-## 📌 Problem Statement
+##  Problem Statement
 
 Design and implement a **Hash Table** in **C++** using the **Chaining technique** to handle collisions.  
 The hash table should store **string keys** and **integer values**, support **dynamic resizing (rehashing)**, and provide efficient operations such as insertion, deletion, searching, and existence checking.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand how hash tables work internally
 - Implement collision handling using **linked lists (chaining)**
@@ -16,7 +14,7 @@ The hash table should store **string keys** and **integer values**, support **dy
 
 ---
 
-## 🧠 Concept Overview
+##  Concept Overview
 
 A **Hash Table** stores data in an array using a **hash function** to map keys to indices.  
 When multiple keys map to the same index (collision), a **linked list** is used at that index.
@@ -31,7 +29,7 @@ When multiple keys map to the same index (collision), a **linked list** is used 
 
 ---
 
-## 🛠️ Hash Function Used
+##  Hash Function Used
 
 For a given string key:
 index = ( Σ (ASCII(key[i]) × ASCII(key[i])) ) % table_size
@@ -40,13 +38,13 @@ This helps distribute keys uniformly across the table.
 
 ---
 
-## 📊 Load Factor
+##  Load Factor
 Load Factor (λ) = currentSize / tableSize
 - If **λ > 1**, rehashing is triggered
 - Table size is doubled during rehashing
 
 ---
-## 🧪 Sample Input (Used in `main()`)
+##  Sample Input (Used in `main()`)
 
 ```cpp
 ht.insert("India", 150);
