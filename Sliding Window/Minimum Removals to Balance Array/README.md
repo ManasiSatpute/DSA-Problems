@@ -43,16 +43,8 @@ This naturally leads to a **two-pointer / sliding window** approach.
 * **Space Complexity:** `O(1)`
 
 ---
-
-## Project Structure
-
-```
-.
-├── problem.md     # Problem statement and constraints
-├── solution.cpp   # C++ implementation
-└── README.md      # Explanation and approach
-```
-
+##Tags: 
+Sliding Window, Two Pointers, Sorting, Greedy
 ---
 
 ## Key Takeaway
@@ -60,7 +52,3 @@ This naturally leads to a **two-pointer / sliding window** approach.
 > Keeping the largest balanced subarray ensures the minimum number of removals.
 
 ---
-
-**LeetCode Link:** [https://leetcode.com/problems/minimum-removals-to-balance-array/](https://leetcode.com/problems/minimum-removals-to-balance-array/)
-
-Happy Coding! 💻✨
