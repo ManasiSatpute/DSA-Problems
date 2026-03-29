@@ -65,19 +65,3 @@ All numbers are greater than **1**, so the smallest missing positive number is *
 
 - `1 <= nums.length <= 10^5`
 - `-2^31 <= nums[i] <= 2^31 - 1`
-
----
-
-## Function Signature
-
-```
-int firstMissingPositive(vector<int>& nums);
-```
-
----
-
-## Notes
-
-- The solution must run in **linear time O(n)**.
-- The algorithm must use **constant extra space O(1)**.
-- The array may contain **negative numbers, zeros, and duplicates**.
