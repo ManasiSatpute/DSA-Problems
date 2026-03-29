@@ -1,6 +1,6 @@
 # Binomial Coefficient Calculator (nCr)
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Implement a program to compute the **Binomial Coefficient (nCr)**.
 
@@ -20,7 +20,7 @@ Where:
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Given two integers `n` and `r`:
 
@@ -59,23 +59,3 @@ r = 2
 * 0 ≤ r ≤ n
 * n is a non-negative integer
 * Result fits within integer limits (for basic implementation)
-
----
-
-## Follow-up Considerations (Advanced Discussion)
-
-* How to handle large values of `n`?
-* How to prevent integer overflow?
-* Can we optimize without calculating full factorials?
-* Can we compute it using Pascal’s Triangle or Dynamic Programming?
-
-This problem tests understanding of:
-
-* Mathematical foundations
-* Function modularity
-* Time and space complexity awareness
-* Edge case handling
-
----
-
-This is a fundamental combinatorics problem commonly asked in technical interviews.
