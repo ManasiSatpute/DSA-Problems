@@ -1,4 +1,4 @@
-# Diameter of Binary Tree (C++)
+# Diameter of Binary Tree
 
 ##  Problem Statement
 
