@@ -38,22 +38,10 @@ This balances large values with small ones and prevents any pair from dominating
 * **Time Complexity:** `O(n log n)` (sorting)
 * **Space Complexity:** `O(n)` (to store pair sums)
 
----
-
-## Project Structure
-
-```
-.
-├── problem.md     # Problem statement and examples
-├── solution.cpp   # C++ implementation
-└── README.md      # Explanation and approach
-```
 
 ---
 
-## Key Takeaway
-
-> Pairing the smallest and largest numbers together minimizes the maximum pair sum.
+## Tags: Greedy, Array, Sorting
 
 ---
 
