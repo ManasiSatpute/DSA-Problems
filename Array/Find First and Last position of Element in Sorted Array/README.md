@@ -1,5 +1,4 @@
-#  Find First and Last Position of Element in Sorted Array – Solution Overview
-
+#  Find First and Last Position of Element in Sorted Array
 ##  Problem Summary
 
 Given a sorted array `nums` (non-decreasing), find the **starting and ending position** of a given `target` value.
