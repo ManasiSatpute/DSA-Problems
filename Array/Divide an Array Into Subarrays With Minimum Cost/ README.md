@@ -34,16 +34,6 @@ This greedy observation leads to an optimal and simple solution.
 
 ---
 
-##  Project Structure
-
-```
-.
-├── problem.md     # Problem statement and examples
-├── solution.cpp   # C++ implementation
-└── README.md      # Explanation and approach
-```
-
----
 
 ##  Key Takeaway
 
