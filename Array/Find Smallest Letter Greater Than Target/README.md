@@ -37,12 +37,3 @@ solution.cpp
 
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(1)
-
----
-
-##  Repository Structure
-```
-├── problem.md
-├── solution.cpp
-└── README.md
-```
